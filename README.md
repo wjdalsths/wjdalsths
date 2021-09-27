@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-![snake?](https://raw.githubusercontent.com/wjdalsths/wjdalsths/output/github-contribution-grid-snake.svg)
+![snake git](https://raw.githubusercontent.com/wjdalsths/wjdalsths/output/github-contribution-grid-snake.svg)
