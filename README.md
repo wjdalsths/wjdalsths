@@ -30,9 +30,4 @@ I'm Son Jeongmin!
 
 
 ![line](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=10)
-<div >
-  <img  height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjdalsths&layout=compact&langs_count=6"/>  
-  <img  height="182em" src="https://github-readme-stats.vercel.app/api?username=wjdalsths&show_icons=true&include_all_commits=true&count_private=true"/>
-</div>
-
 
