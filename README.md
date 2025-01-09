@@ -10,8 +10,7 @@ I'm Son Jeongmin!
   </tr>
   <tr>
     <td>
-        <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="JS, TS, HTML, CSS" /><br/>
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+        <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="JS, TS, HTML, CSS" />
     </td>
     <td>
       <a href="https://skillicons.dev">
